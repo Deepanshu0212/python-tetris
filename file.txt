@@ -1,1 +1,7 @@
 hello
+<<<<<<< HEAD
+=======
+preparing scm viva
+good night
+
+>>>>>>> deepanshu
